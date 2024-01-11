@@ -2,6 +2,7 @@
 
 ## ![](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=70&center=true&vCenter=true&width=1920&height=80&duration=4000&lines=Hi,+👋;+I'm+Diego+Amchi+Flores+🧑‍💻)
 
+![snake gif](https://github.com/Ares101101/Ares101101/blob/output/github-contribution-grid-snake.gif)
 
 ```js
 const Diego = {
