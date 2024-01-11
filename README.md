@@ -1,4 +1,7 @@
-## Hi, I'm  Diego Felix Amchi Flores 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ares101101.visitor-badge" />
+
+## ![](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=70&center=true&vCenter=true&width=1920&height=80&duration=4000&lines=Hi,+👋;+I'm+Diego+Amchi+Flores+🧑‍💻)
+
 
 ```js
 const Diego = {
@@ -6,13 +9,15 @@ const Diego = {
     passions: ['web development'],
 }
 ```
-[![space-1.jpg](https://i.postimg.cc/4djDgq83/space-1.jpg)](https://postimg.cc/Ppz3b3nG)
 
 ### You can find me 🌎:
-- [Linkedin](https://www.linkedin.com/in/diego-amachi-flores-b1b724217/)
-- [X](https://twitter.com/DiegoAmachi)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ares101101)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ares101101&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
+
+
+
 <!--
 **Ares101101/Ares101101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
