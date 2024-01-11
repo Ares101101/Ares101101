@@ -14,35 +14,7 @@
   </a>
 </div>
 
-
-<style>
-    @import url(https://unpkg.com/css-peeps@1/css-peeps.css);
-
-    .hi {
-      --peep-hat-color: #FC03C2;
-      --peep-hair-color: #7300E6;
-      --peep-skin-color: #ffffff;
-      --peep-accessory-color: #00ff00;
-      --peep-facial-hair-color: #ffd700;
-      --peep-object-color: #ffa500;
-      --peep-clothes-color: #ff0000;
-      --pepp-aaa: #0077B5;
-      display: inline-block;
-      width: 100%;
-      height: 200px;
-      background:transparent;
-      border-radius: 10px;
-      border: 2px solid var(--pepp-aaa);
-      
-    }
-</style>
-
-<body>
-  <a class="hi" href="https://css-peeps.com/"
-    data-css-peeps="short5 smile sunglasses2 thunder-tee"
-    target="_blank"
-  ></a>
-</body>
+[![image.png](https://i.postimg.cc/SjF36BTW/image.png)](https://postimg.cc/bSgm8BjJ)
 
 <hr/>
  
